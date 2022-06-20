@@ -42,14 +42,12 @@ export default function Header() {
       </div>
       <nav className='nav'>
         <Link href='/'>
-          <a className='btn btn-hover'>Home</a>
+          <a className='btn btn-hover'>Inicio</a>
         </Link>
         <Link href='/projects'>
-          <a className='btn btn-hover'>Projects</a>
+          <a className='btn btn-hover'>Proyectos</a>
         </Link>
-        <Link href='/posts'>
-          <a className='btn btn-hover'>Posts</a>
-        </Link>
+        
       </nav>
       <div className='helpers'>
         <span className='social'>
