@@ -1,0 +1,120 @@
+{
+  "profile": {
+    "fullname": "Erwin Saavedra",
+    "about": "Soy Estudiante de Ingeniería en Informática. Construyo, pruebo e implemento aplicaciones web modernas. Me gusta en los tiempos libres ver peliculas y series de tv",
+    "email": "<your-email/>",
+    "resume": "<your-resume/>",
+    "theme": "dark"
+  },
+  "social": [
+    {
+      "name": "Twitter",
+      "icon": "fas fa-hashtag",
+      "url": "https://<your-twitter-url/>"
+    },
+    {
+      "name": "Github",
+      "icon": "fab fa-github-alt",
+      "url": "https://<your-github/>"
+    },
+    {
+      "name": "Linkedin",
+      "icon": "fas fa-link",
+      "url": "https://<your-linkedin-url/>"
+    },
+    {
+      "name": "Instagram",
+      "icon": "fas fa-camera-retro",
+      "url": "https://<your-instagram-url/>"
+    }
+  ],
+  "tools": {
+    "frontend": [
+      {
+        "tool": "javascript",
+        "icon": "devicon-javascript-plain colored"
+      },
+      {
+        "tool": "angular",
+        "icon": "devicon-angularjs-plain colored"
+      },
+      {
+        "tool": "react",
+        "icon": "devicon-react-original colored"
+      },
+      {
+        "tool": "html5",
+        "icon": "devicon-html5-plain colored"
+      },
+      {
+        "tool": "css3",
+        "icon": "devicon-css3-plain colored"
+      },
+      {
+        "tool": "sass",
+        "icon": "devicon-sass-original colored"
+      },
+      {
+        "tool": "gulp",
+        "icon": "devicon-gulp-plain colored"
+      },
+      {
+        "tool": "bootstrap",
+        "icon": "devicon-bootstrap-plain colored"
+      }
+    ],
+    "backend": [
+      {
+        "tool": "nodejs",
+        "icon": "devicon-nodejs-plain colored"
+      },
+      {
+        "tool": "express",
+        "icon": "devicon-express-original"
+      },
+      {
+        "tool": "mysql",
+        "icon": "devicon-mysql-plain colored"
+      },
+      {
+        "tool": "mongodb",
+        "icon": "devicon-mongodb-plain colored"
+      }
+    ],
+    "devtools": [
+      {
+        "tool": "git",
+        "icon": "devicon-git-plain colored"
+      },
+      {
+        "tool": "github",
+        "icon": "devicon-github-plain"
+      },
+      {
+        "tool": "npm",
+        "icon": "devicon-npm-original-wordmark colored"
+      },
+      {
+        "tool": "vscode",
+        "icon": "devicon-visualstudio-plain colored"
+      },
+      {
+        "tool": "photoshop",
+        "icon": "devicon-photoshop-plain colored"
+      },
+      {
+        "tool": "devtools",
+        "icon": "devicon-chrome-plain colored"
+      }
+    ]
+  },
+  "projects": [
+    {
+      "name": "Vue.js and Vuex TodoList APP",
+      "image": "vuex-todolist.jpg",
+      "live": "https://vuex-todolist.vercel.app/",
+      "source": "https://github.com/korayguler/vuex-todolist",
+      "tech": ["vue", "vuex", "js"]
+    }
+  ]
+}
