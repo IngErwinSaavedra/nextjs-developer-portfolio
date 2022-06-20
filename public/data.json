@@ -81,6 +81,10 @@
         "icon": "devicon-mysql-plain colored"
       },
       {
+        "tool": "oracle database",
+        "icon": "devicon-oracle-original colored"
+      },
+      {
         "tool": "mongodb",
         "icon": "devicon-mongodb-plain colored"
       }
