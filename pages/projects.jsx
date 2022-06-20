@@ -9,10 +9,10 @@ export default function PortfolioPage() {
 
   useEffect(() => {
     fetchUserData().then((items) => {
-        setData(items.projects);
-        setIsLoading(false);
-    })
-  }, [])
+      setData(items.projects);
+      setIsLoading(false);
+    });
+  }, []);
 
   return (
     <>

@@ -69,6 +69,10 @@
         "icon": "devicon-nodejs-plain colored"
       },
       {
+        "tool": "spring boot",
+        "icon": "devicon-spring-plain-wordmark colored"
+      },
+      {
         "tool": "express",
         "icon": "devicon-express-original"
       },
