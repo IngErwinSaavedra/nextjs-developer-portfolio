@@ -28,7 +28,7 @@ export default function HomePage(props) {
       {isLoading && <Loader />}
 
       <section className='section animate__animated animate__slideInDown'>
-        <h2 className='title'>About Me</h2>
+        <h2 className='title'>Acerca de mi</h2>
         <div className='profile'>
           <div className='image-container'>
             <Image src={avatar} layout='fill' />
