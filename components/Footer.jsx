@@ -9,7 +9,7 @@ export default function Footer() {
           target='_blank'
           rel='noreferrer'
         >
-            Desarrollo por
+            Desarrollado por
           <span className='icon'>
             <i className='fas fa-heart'></i>
           </span>
