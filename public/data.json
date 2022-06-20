@@ -113,12 +113,6 @@
     ]
   },
   "projects": [
-    {
-      "name": "Vue.js and Vuex TodoList APP",
-      "image": "vuex-todolist.jpg",
-      "live": "https://vuex-todolist.vercel.app/",
-      "source": "https://github.com/korayguler/vuex-todolist",
-      "tech": ["vue", "vuex", "js"]
-    }
+    
   ]
 }
